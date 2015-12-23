@@ -4,8 +4,9 @@ title: About
 permalink: /
 ---
 
-
 <div class="row">
+  <img class="col-xs-12" src="img/poster.jpg" alt="personal training" style="margin-bottom: 1em;"/>
+
   <div class="col-xs-12 col-sm-6">
     <p class="lead">
       Leon is founder of Leon personal fitness training,  to assure you of the best possible service. Established in 2003  Leon  Fitness is now recognised as shanghai's foremost mobile personal training company.
