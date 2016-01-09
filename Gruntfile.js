@@ -39,7 +39,7 @@ module.exports = function (grunt) {
           '<%= yeoman.app %>/**/*.{html,yml,md,mkd,markdown}',
           '!<%= yeoman.app %>/_bower_components/**/*'
         ],
-        tasks: ['bundle exec jekyll:server']
+        tasks: ['jekyll:server']
       }
     },
     browserSync: {
