@@ -25,7 +25,7 @@ permalink: /
       <li>2003 start the LEON FITNESS PERSONAL TRAINING(shanghai)</li>
     </ul>
   </div>
-  <img class="col-xs-12 col-sm-6" src="/img/leon.jpg" alt="leon" />
+  <img class="col-xs-12 col-sm-6" src="img/leon.jpg" alt="leon" />
 </div>
 
 The Leon Fitness team of fully qualified & experienced trainers offer a range of fitness services designed to complement one another. Our fun & individual approach encourages commitment and success for everybody. Furthermore, our personal & technical customer care ensures you are always the first priority.
