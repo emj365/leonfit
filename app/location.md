@@ -4,8 +4,8 @@ title: Location
 permalink: /location.html
 ---
 
-![location](img/location/1.jpg)
-![location](img/location/2.jpg)
+![location](img/location/1.jpg){:.img-responsive}
+![location](img/location/2.jpg){:.img-responsive}
 
 - The Portman Ritz-Carlton Hotel Fitness Club
 - Embassy Club Fitness Club
