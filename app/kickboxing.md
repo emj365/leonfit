@@ -6,7 +6,7 @@ permalink: /kickboxing.html
 
 ## LEON KICKBOXING & Personal Training
 
-![kcikboxing](img/kickboxing.jpg)
+![kcikboxing](img/kickboxing.jpg){:.img-responsive}
 
 The foundation of The LEON KICKBOXING Workout? is the promise that, in an hour, you will not only have a great workout but you'll feel as exhilarated as if you'd actually stepped into the ring. And the way to get the most out of any LEON KICKBOXING workout is to feel comfortable and confident in every move. Our Private Training sessions quickly teach beginners proper form, getting you comfortable throwing punches, kicks and combinations. And experienced client find that Personal training is the fastest way to hone skills move to the next level. Whatever your training and exercise goals, going one-on-one with our trainers gets you there, now!
 

@@ -4,7 +4,7 @@ title: In-home Training
 permalink: /in-home-training.html
 ---
 
-![in home training](img/in-home-training.jpg)
+![in home training](img/in-home-training.jpg){:.img-responsive}
 
 If your most difficult issue is not having enough time to workout, then this is our most convenient solution. No more excuses of not being able to make it to gym because we'll come out to you. We have over 10 years of experience turning people's homes into gyms and you'll be surprised how little equipment we need to achieve your goals:
 
