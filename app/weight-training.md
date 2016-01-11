@@ -4,7 +4,7 @@ title: Weight Training
 permalink: /weight-training.html
 ---
 
-## 35-60 Minute high intensity training
+### 35-60 Minute high intensity training
 
 Don't think you're not going to get a cardiovascular?
 
@@ -12,7 +12,7 @@ Using strength and resistance training, we'll get your heart rate up and down by
 
 TRAINING JUST TO -- '35-60 Minute leanMAXX' High Intensity Training '
 
-## Targeted training for lean muscle development and a supercharged metabolism.
+### Targeted training for lean muscle development and a supercharged metabolism.
 
 MUSCLE CONFUSION NEVER PLATEAU
 

@@ -4,8 +4,7 @@ title: Rate
 permalink: /rate.html
 ---
 
-Pay as you go Programs are
-------------------
+### Pay as you go Programs are
 
 {:.table}
 | Item                          | Rate             |
