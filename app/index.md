@@ -4,8 +4,9 @@ title: About
 permalink: /
 ---
 
-
 <div class="row">
+  <img class="col-xs-12" src="img/poster.jpg" alt="personal training" style="margin-bottom: 1em;"/>
+
   <div class="col-xs-12 col-sm-6">
     <p class="lead">
       Leon is founder of Leon personal fitness training,  to assure you of the best possible service. Established in 2003  Leon  Fitness is now recognised as shanghai's foremost mobile personal training company.
@@ -24,12 +25,12 @@ permalink: /
       <li>2003 start the LEON FITNESS PERSONAL TRAINING(shanghai)</li>
     </ul>
   </div>
-  <img class="col-xs-12 col-sm-6" src="/img/leon.jpg" alt="leon" />
+  <img class="col-xs-12 col-sm-6" src="img/leon.jpg" alt="leon" />
 </div>
 
 The Leon Fitness team of fully qualified & experienced trainers offer a range of fitness services designed to complement one another. Our fun & individual approach encourages commitment and success for everybody. Furthermore, our personal & technical customer care ensures you are always the first priority.
 
-## At leon Personal Training (shanghai)  - Your Goals are our Priority
+### At leon Personal Training (shanghai)  - Your Goals are our Priority
 
 
 People turn to leon Personal Training (leonPT) when they're looking for more than the typical trainer and nothing less than unrivaled results.
@@ -38,32 +39,32 @@ With an unmatchable business model that allows our staff to solely focus on thei
 
 We offer private and semi-private training sessions in your home, building exercise room, office or in one of our studios & boxing GYM and our top fitness club in shanghai.
 
-## Did you know...
+### Did you know...
 That IDEA, the International Health and Fitness Assocation, released a statistic that found 75% of people who exercise are not getting the results they want? But out of the 25% of people who are getting results, 90% of them are working with a Personal Trainer.
 
 Private Training at LEON PERSONAL TRAINING is simply the fastest way to the best workout experience you'll ever have.
 
-## Our Fitness Programs
+### Our Fitness Programs
 
 Honest Expectations - Real solutions - Sustainable results.
 
 Our training and nutrition programs are custom designed to help you sculpt a stronger and leaner body that feels as good as it looks. After being assigned to one of our dedicated staff, your program will be tailored based on your needs and our Three Key Elements, which are:
 
-### 1.Weight Loss - Burn Fat, Build Strength and Lose Inches
+#### 1.Weight Loss - Burn Fat, Build Strength and Lose Inches
 Boost Metabolism
 
 Tone Problem Areas
 
 Learn and Apply Healthy Eating and Lifestyle Habits
 
-### 2.Rehabilitative Fitness - Decrease Your Injury Potential
+#### 2.Rehabilitative Fitness - Decrease Your Injury Potential
 Enhance Posture
 
 Ease Back and Joint Related Pain
 
 Increase Bone Density
 
-### 3.Functional Strength - Perform with an Edge in Life
+#### 3.Functional Strength - Perform with an Edge in Life
 Develop Cardio Endurance
 
 Build Core and Balance Strength
@@ -72,10 +73,10 @@ Improve Flexibility and Mobility
 
 We also specialize in guiding you through Preconception, Prenatal, Post-Partum and Menopause.
 
-## Meal Plans
+### Meal Plans
 Results start with a smart meal plan. If you're not willing to change your diet, your weight won't be willing to change either. Your trainer will coach you through your diet but if you are looking for more help, we have meal plans to meet every need.
 
-## Free Meal Plans - FREE
+### Free Meal Plans - FREE
 
 These meal plans were created by trainers as recommendations based on your situation.
 
