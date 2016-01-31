@@ -76,8 +76,34 @@ We also specialize in guiding you through Preconception, Prenatal, Post-Partum a
 ### Meal Plans
 Results start with a smart meal plan. If you're not willing to change your diet, your weight won't be willing to change either. Your trainer will coach you through your diet but if you are looking for more help, we have meal plans to meet every need.
 
+<div class="row">
+  {% for i in (1..2) do %}
+  <div class="col-xs-6 col-sm-3">
+    <a class="fancybox" rel="group" href="/img/mealplan/img-{{ i }}.jpg">
+      <img class="img-responsive" src="/img/mealplan/img-{{ i }}.jpg" alt="meal plan" />
+    </a>
+  </div>
+  {% endfor %}
+</div>
+
 ### Free Meal Plans - FREE
 
 These meal plans were created by trainers as recommendations based on your situation.
 
+<div class="row">
+  {% for i in (1..13) do %}
+  <div class="col-xs-6 col-sm-3">
+    <a class="fancybox" rel="group" href="/img/aboutleon/gym/img-{{ i }}.jpg">
+      <img class="img-responsive" src="/img/aboutleon/gym/img-{{ i }}.jpg" alt="gym" />
+    </a>
+  </div>
+  {% endfor %}
 
+  {% for i in (1..167) do %}
+  <div class="col-xs-6 col-sm-3">
+    <a class="fancybox" rel="group" href="/img/aboutleon/workout/img-{{ i }}.jpg">
+      <img class="img-responsive" src="/img/aboutleon/workout/img-{{ i }}.jpg" alt="workout" />
+    </a>
+  </div>
+  {% endfor %}
+</div>
