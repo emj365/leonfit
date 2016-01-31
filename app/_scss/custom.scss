@@ -21,6 +21,9 @@
   }
 }
 
-.fancybox img {
+.fancybox {
+  display: block;
+  max-height: 75px;
+  overflow: hidden;
   margin-bottom: 10px;
 }
