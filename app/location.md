@@ -42,7 +42,7 @@ permalink: /location.html
   {% for i in (1..5) do %}
   <div class="col-xs-6 col-sm-3">
     <a class="fancybox" rel="group" href="/img/location/room/img-{{ i }}.jpg">
-      <img class="img-responsive" src="/img/location/room/img-{{ i }}.jpg" alt="meal plan" />
+      <img class="img-responsive" src="/img/location/room/img-{{ i }}.jpg" alt="location" />
     </a>
   </div>
   {% endfor %}
@@ -50,7 +50,7 @@ permalink: /location.html
   {% for i in (1..18) do %}
   <div class="col-xs-6 col-sm-3">
     <a class="fancybox" rel="group" href="/img/location/gym/img-{{ i }}.jpg">
-      <img class="img-responsive" src="/img/location/gym/img-{{ i }}.jpg" alt="meal plan" />
+      <img class="img-responsive" src="/img/location/gym/img-{{ i }}.jpg" alt="location" />
     </a>
   </div>
   {% endfor %}
