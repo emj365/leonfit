@@ -19,3 +19,13 @@ MMA was once a competition between martial arts and is now becoming a unique mar
 we offer MMA, Muay Thai, Jiu Jitsu, Wrestling, Fitness, and Pro Training. Our classes are taught in a friendly environment where we value, skill, smarts and sportsmanship over strength or brutality. clients can expect a great workout, and look forward to acquiring valuable skills that will benefit all areas of life.
 
 When you're ready to step up and kick some heavy bag, we're ready to show you how. The LEON Boxing ,Kickboxing Workout? is designed to be the perfect total body workout, and the fastest way to the tight, toned fighter's body you seek. You'll be challenged to learn new skills and build strength in every muscle group. At the same time, you'll gain far greater flexibility and fluidity of movement... and a whole new attitude walking down the street.
+
+<div class="row">
+  {% for i in (1..13) do %}
+  <div class="col-xs-6 col-sm-3">
+    <a class="fancybox" rel="group" href="/img/bjj/img-{{ i }}.jpg">
+      <img class="img-responsive" src="/img/bjj/img-{{ i }}.jpg" alt="bjj" />
+    </a>
+  </div>
+  {% endfor %}
+</div>
