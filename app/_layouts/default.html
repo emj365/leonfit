@@ -50,8 +50,16 @@
     <!-- build:js({app,.tmp}) /js/script.js -->
     <script src="/js/jquery.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
+    <script src="/vendors/fancybox/jquery.fancybox.pack.js"></script>
+    <script src="/vendors/fancybox/helpers/jquery.fancybox-buttons.js"></script>
+    <script src="/vendors/fancybox/helpers/jquery.fancybox-media.js"></script>
+    <script src="/vendors/fancybox/helpers/jquery.fancybox-thumbs.js"></script>
     <!-- endbuild -->
-
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $(".fancybox").fancybox();
+      });
+    </script>
   </body>
 
 </html>
