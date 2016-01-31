@@ -15,3 +15,13 @@ The foundation of The LEON KICKBOXING Workout? is the promise that, in an hour, 
 LEON Muay Thai class teaches our unique striking system. created This system was developed through years of competition and teaching experience. It combines Western Boxing footwork and punching with traditional Muay Thai ,kickboxing and china sanshou kicks, knees, elbows, and clinch.takedowns .
 
 Class starts with jump rope and footwork-focused shadow box. clients are then partnered up to simulate combat and taught technique and biomechanics. Class ends with strength and conditioning. We believe learning skill in a controlled environment is the best way to encourage learning and avoid injury.
+
+<div class="row">
+  {% for i in (1..22) do %}
+  <div class="col-xs-6 col-sm-3">
+    <a class="fancybox" rel="group" href="/img/kickboxing/img-{{ i }}.jpg">
+      <img class="img-responsive" src="/img/kickboxing/img-{{ i }}.jpg" alt="kickboxing" />
+    </a>
+  </div>
+  {% endfor %}
+</div>
