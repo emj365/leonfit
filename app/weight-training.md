@@ -19,3 +19,13 @@ MUSCLE CONFUSION NEVER PLATEAU
 Here's the true secret of how it works: Muscle Confusion. It uses targeted training phases so your body keeps adapting and growing. You'll never "plateau" - which means your body will never get used to the routines, making improvements slow down or even stop.
 
 Short training cycles constantly challenge your muscles with variety and intensity.It maximizes fat burning and muscle sculpting in different ways every day.
+
+<div class="row">
+  {% for i in (1..8) do %}
+  <div class="col-xs-6 col-sm-3">
+    <a class="fancybox" rel="group" href="/img/weight-training/img-{{ i }}.jpg">
+      <img class="img-responsive" src="/img/weight-training/img-{{ i }}.jpg" alt="weight training" />
+    </a>
+  </div>
+  {% endfor %}
+</div>
