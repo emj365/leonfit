@@ -15,13 +15,13 @@ permalink: /
       <li>EX-china kickboxing(sanshou) champion.</li>
       <li>1999 start personal training in shanghai GOLD'S GYM</li>
       <li>2000-2003 GOLD'S GYM shanghai top personal trainer</li>
-      <li>2003 first chinese personal trainer invited by IDEAFIT went to USA </li>atworld personal trainer summit.
+      <li>2003 first chinese personal trainer invited by IDEAFIT went to USA </li>attend world personal trainer summit.
       <li>2005-2008 kickboxing, muaythai trainer in (shanghai)FITNESS FIRST club</li>
       <li>2008 the founder of NAVILEON KICKBOXING,MMA &amp; FITNESS</li>
-      <li>2008 WILL'S GYM kickboxing progrom design</li>
+      <li>2008 WILL'S GYM kickboxing program design</li>
       <li>EMBASSY CLUB kickboxing trainer</li>
       <li>LONGWU Kungfu shanghai   kickboxing, BJJ, MMA  trainer</li>
-      <li>THE PORTMAN RITZ-CARLTON HOTEL  shanghai  health &amp; fitness cpersonal </li>trainer
+      <li>THE PORTMAN RITZ-CARLTON HOTEL  shanghai  health &amp; fitness club personal trainer</li>
       <li>2003 start the LEON FITNESS PERSONAL TRAINING(shanghai)</li>
     </ul>
   </div>
