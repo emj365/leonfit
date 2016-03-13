@@ -2,6 +2,7 @@
   "name": "jekyllrb",
   "version": "0.0.0",
   "dependencies": {
-    "bootstrap": "~3.3.6"
+    "bootstrap": "~3.3.6",
+    "fancybox": "^2.1.5"
   }
 }

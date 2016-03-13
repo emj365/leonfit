@@ -92,3 +92,13 @@ Contact shanghai leon personal training today to discuss the best plan for you.
 - BJJ , Mixed Martial Arts , self-defense
 
 We are committed to helping you get results!
+
+<div class="row">
+  {% for i in (1..17) do %}
+  <div class="col-xs-6 col-sm-3">
+    <a class="fancybox" rel="group" href="/img/personal-training/img-{{ i }}.jpg">
+      <img class="img-responsive" src="/img/personal-training/img-{{ i }}.jpg" alt="personal training" />
+    </a>
+  </div>
+  {% endfor %}
+</div>
