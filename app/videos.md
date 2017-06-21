@@ -10,7 +10,6 @@ videos:
 ---
 
 <style type="text/css">
-.grid { margin-bottom: 1em; }
 .grid .grid-item {
   width: 50%;
 }
@@ -22,7 +21,8 @@ videos:
 }
 
 .grid .grid-item video {
-  padding: 10px;
+  padding-right: 1em;
+  padding-bottom: 3em;
   width: 100%;
 }
 </style>
