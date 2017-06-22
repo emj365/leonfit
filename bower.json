@@ -4,6 +4,7 @@
   "dependencies": {
     "bootstrap": "~3.3.6",
     "fancybox": "^2.1.5",
-    "masonry": "^4.2.0"
+    "masonry": "^4.2.0",
+    "imagesloaded": "^4.1.3"
   }
 }

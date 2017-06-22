@@ -136,7 +136,7 @@ images:
 <div class="grid">
     {% for image in page.images %}
       <div class="grid-item">
-        <img class="lazy" src="{{image}}" data-original="{{image}}" />
+        <img src="{{image}}" />
       </div>
     {% endfor %}
 </div>
