@@ -9,6 +9,6 @@ permalink: /contact.html
 Moblie:15800580319
 <br/>
 <br/>
-E-Mail: LeonFit8888@hotmail.com
+E-Mail: leon@leonfit.com
 
 </div>
