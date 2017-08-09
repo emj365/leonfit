@@ -7,6 +7,20 @@ videos:
   - videos/00050.MTS.mp4
   - videos/00051.MTS.mp4
   - videos/00053.MTS.mp4
+  - videos/00049.MTS.mp4
+  - videos/00055.MTS.mp4
+  - videos/00056.MTS.mp4
+  - videos/00057.MTS.mp4
+  - videos/00058.MTS.mp4
+  - videos/00059.MTS.mp4
+  - videos/00060.MTS.mp4
+  - videos/00061.MTS.mp4
+  - videos/00062.MTS.mp4
+  - videos/00063.MTS.mp4
+  - videos/00064.MTS.mp4
+  - videos/00065.MTS.mp4
+  - videos/MVI_1234.AVI.mp4
+  - videos/MVI_1235.AVI.mp4
 ---
 
 <style type="text/css">
