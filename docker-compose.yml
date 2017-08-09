@@ -1,10 +1,9 @@
 version: "3.3"
 services:
   serve:
-    build: ./
     image: emj365/leonfit
     volumes:
-      - myapp-app-sync:/usr/src/jekyllrb/app:rw
+      - leonfit-app-sync:/usr/src/jekyllrb/app:rw
     ports:
       - "3000:3000"
       - "3001:3001"
@@ -13,18 +12,18 @@ services:
   build:
     image: emj365/leonfit
     volumes:
-      - myapp-app-sync:/usr/src/jekyllrb/app:rw
-      - myapp-dist-sync:/usr/src/jekyllrb/dist:rw
+      - leonfit-app-sync:/usr/src/jekyllrb/app:rw
+      - leonfit-dist-sync:/usr/src/jekyllrb/dist:rw
     command: ["grunt", "build"]
 
   bower:
     image: emj365/leonfit
     volumes:
-      - myapp-app-sync:/usr/src/jekyllrb/app:rw
+      - leonfit-app-sync:/usr/src/jekyllrb/app:rw
     command: ["bower", "install", "--allow-root"]
 
 volumes:
-  myapp-app-sync:
+  leonfit-app-sync:
     external: true
-  myapp-dist-sync:
+  leonfit-dist-sync:
     external: true
