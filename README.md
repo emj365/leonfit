@@ -14,3 +14,9 @@ https://github.com/EugenMayer/docker-sync/
 docker-sync start
 docker-compose up serve
 ```
+
+## Converting Videos
+
+```bash
+for f in 000*.MTS; HandBrakeCLI -i $f -o $f.mp4 -Z 'Legacy/iPhone & iPod touch';
+```
