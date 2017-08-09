@@ -1,5 +1,6 @@
 from node:boron
-RUN npm install -g bower
+
+RUN npm install -g bower # don't know why, bower only works when install like this
 
 RUN apt-get update && \
     apt-get install -y ruby ruby-dev && \
