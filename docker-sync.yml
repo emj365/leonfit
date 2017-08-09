@@ -1,0 +1,9 @@
+version: "2"
+syncs:
+
+  myapp-app-sync:
+    src: './app'
+    sync_excludes: ['bower_components/', '.gitignore', '.git/']
+  myapp-dist-sync:
+    src: './dist'
+    sync_excludes: ['bower_components/', '.gitignore', '.git/']
