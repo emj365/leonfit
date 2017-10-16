@@ -1,0 +1,11 @@
+web:
+  autoredeploy: true
+  environment:
+    - VIRTUAL_HOST=shanghai-personaltraining.com,www.shanghai-personaltraining.com
+  image: 'emj365/leonfit'
+  ports:
+    - '80'
+  sequential_deployment: true
+  tags:
+    - production
+    - leonfit
