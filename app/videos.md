@@ -44,7 +44,7 @@ videos:
 <div class="grid">
   {% for video in page.videos %}
   <div class="grid-item">
-    <video controls>
+    <video controls preload="none">
       <source src="{{video}}" type="video/mp4">
       Your browser does not support the video tag.
     </video>
