@@ -11,7 +11,7 @@ services:
       labels:
         - "traefik.port=80"
         - "traefik.docker.network=traefik-net"
-        - "traefik.frontend.rule=Host:shanghai-personaltraining.com"
+        - "traefik.frontend.rule=Host:shanghai-personaltraining.com,www.shanghai-personaltraining.com"
 
 networks:
   traefik-net:
