@@ -7,16 +7,17 @@ permalink: /contact.html
 <div class="lead">
 
 <p>
-Moblie:15800580319
+Moblie: 18816502251
 </p>
 
+<!--
 <p>
 E-Mail: leon@leonfit.com
 </p>
+-->
 
 <p>
-Wechat:<br/>
-<img src="img/wechat.jpg" alt="wechat qr" />
+Wechat: 18816502251
 </p>
 
 </div>
